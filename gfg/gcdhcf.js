@@ -16,7 +16,7 @@ function gethcf(a,b){
 
 }
 
-// console.log(gethcf(4,6))
+console.log(gethcf(4,6))
 
 //  Ecludian
 
