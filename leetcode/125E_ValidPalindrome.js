@@ -11,6 +11,7 @@ var isPalindrome = function (s) {
 
 
 
+ 
 let input = "A man, a plan, a canal: Panama"
 
 
