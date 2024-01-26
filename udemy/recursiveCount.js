@@ -8,4 +8,16 @@ function countDown(num) {
 
 
 
-countDown(10)
+
+function sumRange(num){
+    console.log(`sumRange with ${num}`)
+
+    if(num==1){
+        return 1
+    }
+    return num +sumRange(num-1)
+
+}
+
+// countDown(10)
+console.log(sumRange(4))
