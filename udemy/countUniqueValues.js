@@ -48,7 +48,7 @@ function countUniqueValues2(arr) {
 }
 
 
-let arr = [1, 2, 3, 3, 4, 5]
+let arr = [ 3, 3, 4, 5,6,7,7,7,0,9]
 
 
 // console.log('normal solu', countUniqueValues1(arr))
