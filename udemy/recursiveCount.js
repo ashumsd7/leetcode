@@ -19,5 +19,12 @@ function sumRange(num){
 
 }
 
+function fact(num){
+    if(num==1)
+    return 1
+return num * fact(num-1)
+}
+
 // countDown(10)
 console.log(sumRange(4))
+console.log(fact(5))
