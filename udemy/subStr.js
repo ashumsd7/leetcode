@@ -29,4 +29,4 @@ function matchSubStr(str, substr) {
 
 
 
-console.log(matchSubStr('wowomgzomgxxxomg', 'omg'))
+console.log(matchSubStr('wowomgzomgxxxomg', 'omssg'))

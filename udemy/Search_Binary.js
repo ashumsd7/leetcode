@@ -7,10 +7,6 @@ function binarySearch(arr, elem) {
     if (arr[middle] == elem)
         return middle
     while (start <= end) {
-
-        // if (start < 0 || end > arr.length)
-        //     return -1
-
         if (elem < arr[middle])
             end = middle - 1
         else
